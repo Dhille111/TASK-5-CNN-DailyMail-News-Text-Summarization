@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Data and outputs directories
+data/
+outputs/
+
+# Model checkpoints and weights
+models/
+*.pt
+*.bin
+*.safetensors
+
+# Python cache and bytecode
+__pycache__/
+*.pyc
+
+# Data tables
+*.csv
+*.xlsx
+
+# IDEs, notebooks and OS files
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
