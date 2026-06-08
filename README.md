@@ -92,7 +92,15 @@ Once the server starts, access the app in your browser at `http://localhost:8501
 Here is the user interface of the web application in action:
 
 ### 1. Web App Input Interface
-![Web App Input Interface](assets/input_screenshot.png)
+<img width="1920" height="1008" alt="Screenshot 2026-06-08 204021" src="https://github.com/user-attachments/assets/64831c05-1c55-49d5-9501-41bbb72c18db" />
+<img width="1920" height="1008" alt="Screenshot 2026-06-08 204041" src="https://github.com/user-attachments/assets/633632aa-5ef9-44da-b78b-f229f747035d" />
+
+
 
 ### 2. Generated Summary & Metrics
-![Generated Summary & Metrics](assets/output_screenshot.png)
+<img width="1920" height="1008" alt="Screenshot 2026-06-08 204137" src="https://github.com/user-attachments/assets/84ebb51c-4a76-414c-9cd2-98065467810b" />
+<img width="1920" height="1008" alt="Screenshot 2026-06-08 204147" src="https://github.com/user-attachments/assets/a668823a-fe4a-4c48-914a-b067d3cfce28" />
+<img width="1920" height="1008" alt="Screenshot 2026-06-08 204158" src="https://github.com/user-attachments/assets/5d7b87d7-d0aa-449e-9710-f4ae53636f62" />
+
+
+
